@@ -1,2 +1,2 @@
 # cerebral-rnn-experimental-results
-This repository contains experemental results and their comparitive study.
+This repository contains experimental results and their comparitive study.
