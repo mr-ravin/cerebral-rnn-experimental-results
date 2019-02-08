@@ -5,7 +5,7 @@ Research Paper is currently under analysis phase.
 Author: Ravin Kumar
 
 ### Architecture Description:
-```python3
+```
 
 |
 |-data
