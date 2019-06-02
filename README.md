@@ -1,6 +1,5 @@
 # cerebral-rnn-experimental-results
-This repository contains experimental results and their comparitive study.
-Research Paper is currently under analysis phase.
+This repository contains experimental results and their comparitive study. Research paper is accepted at Springer Publication House, and will soon get published in IETE Springer series. 
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
