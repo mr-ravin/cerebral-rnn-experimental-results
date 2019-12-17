@@ -21,3 +21,5 @@ This repository contains experimental results and their comparitive study. Resea
 ```
 - 'data' directory contains dataset used for comparison.
 - 'loss_values' directory contains record of training loss for each model to perform comparative analysis.
+
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
