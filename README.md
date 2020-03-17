@@ -3,7 +3,9 @@ This repository contains experimental results and the comparitive study of Cereb
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
-#### Paper link: https://link.springer.com/article/10.1007/s42979-020-0101-1
+#### Publication: 14th March 2020
+
+#### Publication Link: https://link.springer.com/article/10.1007/s42979-020-0101-1
 
 #### Cite as:
 ```
