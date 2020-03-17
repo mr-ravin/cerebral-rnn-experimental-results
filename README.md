@@ -1,7 +1,15 @@
 # cerebral-rnn-experimental-results
-This repository contains experimental results and their comparitive study. Research paper is accepted at Springer Publication House, and will soon get published in IETE Springer series. 
+This repository contains experimental results and the comparitive study of Cerebral LSTM, presented in the paper "Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs". Research paper is published in SN Computer Science Springer Nature Journal.
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
+
+#### Paper link: https://link.springer.com/article/10.1007/s42979-020-0101-1
+
+#### Cite as:
+```
+Kumar, R. Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs. SN COMPUT. SCI. 1, 85
+(2020). https://doi.org/10.1007/s42979-020-0101-1
+```
 
 ### Architecture Description:
 ```
