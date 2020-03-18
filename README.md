@@ -7,6 +7,8 @@ This repository contains experimental results and the comparitive study of Cereb
 
 #### Publication Link: https://link.springer.com/article/10.1007/s42979-020-0101-1
 
+#### Doi: https://doi.org/10.1007/s42979-020-0101-1
+
 #### Cite as:
 ```
 Kumar, R. Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs. SN COMPUT. SCI. 1, 85
