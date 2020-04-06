@@ -11,8 +11,8 @@ This repository contains experimental results and the comparitive study of Cereb
 
 #### Cite as:
 ```
-Kumar, R. Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs. SN COMPUT. SCI. 1, 85
-(2020). https://doi.org/10.1007/s42979-020-0101-1
+Kumar, R. Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs. 
+SN COMPUT. SCI. 1, 85 (2020). https://doi.org/10.1007/s42979-020-0101-1
 ```
 
 ### Architecture Description:
