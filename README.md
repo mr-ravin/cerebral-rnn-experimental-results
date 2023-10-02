@@ -20,7 +20,7 @@ SN COMPUT. SCI. 1, 85 (2020). https://doi.org/10.1007/s42979-020-0101-1
 ```
 
 ### Architecture Description:
-- `Pytorch Implementation of Cerebral LSTM` is available in `Cerebral_LSTM_Implementation_in_Pytorch.ipynb` file.
+- `Pytorch Implementation of Cerebral LSTM` is available in `Cerebral_LSTM/Cerebral_LSTM_Implementation_in_Pytorch.ipynb` file.
 
 - For the training loss graphs present in the research paper, see the below structure:
 ```
