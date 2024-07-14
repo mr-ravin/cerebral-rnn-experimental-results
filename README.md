@@ -13,7 +13,7 @@ This repository contains experimental results and the comparitive study and impl
 
 #### Doi: https://doi.org/10.1007/s42979-020-0101-1
 
-#### Cerebral LSTM Architecture:
+## Cerebral LSTM Architecture:
 
 ![image](https://github.com/mr-ravin/cerebral-rnn-experimental-results/blob/master/CerebralLSTM.png?raw=true)
 
