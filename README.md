@@ -1,5 +1,5 @@
 # Cerebral LSTM - Implementation in Pytorch and Comparative Study
-This repository provides `python package` for `pytorch` implementation of `Cerebral LSTM`, presented in the paper "Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs". Research paper is published in SN Computer Science Springer Nature Journal.
+This repository provides `pytorch` implementation of `Cerebral LSTM`, (and its comparison with Stacked LSTM and LSTM cell) presented in the paper "Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs". Research paper is published in SN Computer Science Springer Nature Journal.
 
 **Paper Title**: Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs
 
